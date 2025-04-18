@@ -1,11 +1,11 @@
 # somyamishra
-# 🛒 Market Basket Analysis using Apriori Algorithm
+#  Market Basket Analysis using Apriori Algorithm
 
 This project applies **association rule mining** using the **Apriori algorithm** to analyze customer purchase behavior and generate useful insights. It also simulates a classification-type problem with a **confusion matrix** and key **evaluation metrics** like **accuracy**, **precision**, and **recall**.
 
 ---
 
-## 📌 Project Details
+##  Project Details
 
 - **Name**: Somya Mishra  
 - **Program**: B.Tech (CSE - AI)  
@@ -16,14 +16,14 @@ This project applies **association rule mining** using the **Apriori algorithm**
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 > Use association rule mining to classify customer purchasing patterns for **targeted marketing strategies**.  
 > Generate **heatmaps of confusion matrices**, calculate **evaluation metrics**, and simulate a simple binary classification scenario.
 
 ---
 
-## 📂 Contents
+##  Contents
 
 - `Market_Basket_Analysis.ipynb` – The full Google Colab notebook with extended code
 - `10. Market Basket Analysis.csv` – Sample dataset
@@ -32,7 +32,7 @@ This project applies **association rule mining** using the **Apriori algorithm**
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ One-hot encoding of market basket data  
 ✅ Frequent itemset mining using **Apriori**  
@@ -53,7 +53,7 @@ This project applies **association rule mining** using the **Apriori algorithm**
 
 ---
 
-## 📈 Output Sample
+##  Output Sample
 
 - Top Frequent Itemsets bar chart  
 - Top Association Rules (e.g., Milk → Bread)  
@@ -62,7 +62,7 @@ This project applies **association rule mining** using the **Apriori algorithm**
 
 ---
 
-## 📥 How to Run
+##  How to Run
 
 1. Open the `.ipynb` notebook in **Google Colab**
 2. Upload the CSV file when prompted
@@ -71,7 +71,7 @@ This project applies **association rule mining** using the **Apriori algorithm**
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to connect with me for improvements or collaboration 😊  
 **Somya Mishra**  
